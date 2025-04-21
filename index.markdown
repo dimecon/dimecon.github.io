@@ -3,10 +3,11 @@ layout: home
 ---
 
 I am a postdoc
-working on refinement typing
-at the University of Cambridge in Cambridge, England.
-I completed my PhD in the School of Computing at Queen's University in Kingston, Ontario.
-I studied physics, mathematics and computer science at the University of Colorado Boulder.
+working with [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/)
+at the University of Cambridge.
+I completed my PhD in the School of Computing at Queen's University in Kingston, Ontario
+under the supervision of [Jana Dunfield](https://research.cs.queensu.ca/home/jana/).
+Before that, I studied physics, mathematics and computer science at the University of Colorado Boulder.
 
 ## Publications
 
