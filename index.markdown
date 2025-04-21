@@ -19,6 +19,12 @@ TOPLAS, October 2023.
 Allison C. Morgan, Dimitrios J. Economou, Samuel F. Way, Aaron Clauset.\
 [EPJ Data Science **7**, 40](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0166-4), 2018.
 
+## Thesis
+
+[Focusing on Modular Refinement Typing](../pdfs/thesis.pdf)
+
+My PhD thesis is an extension of the paper "Focusing on Refinement Typing" that allows multiple measurements on inductive datatypes as well as arrow sorts for indices (so that measures such as whether a list of numbers is in increasing order may be expressed).
+
 ## Drafts
 
 [Fungi: Typed incremental computation with names](https://arxiv.org/abs/1808.07826).\
